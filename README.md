@@ -3,7 +3,7 @@
 Meu nome é eduarda
 
 -Estou estudo na Alura
-- Esou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organizição e compartilhamento dos meus projetos desenvolvidos
 -  
 - ### Voçe pode entrar em contato comigo 📫
